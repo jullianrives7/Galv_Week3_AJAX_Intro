@@ -1,0 +1,22 @@
+#results {
+    margin: auto;
+    border: 1px solid blueviolet;
+    background-color: black;
+    margin: auto;
+    color:yellow;
+    font-weight: bolder;
+    width: 900px;
+    text-align: center;
+}
+p {
+    border: 4px solid blueviolet;
+    background-color: black;
+    margin: auto;
+    color: aquamarine;
+    font-weight: bolder;
+    width: 500px;
+    margin-top: 15px;;
+    margin-bottom: 15px;;
+    padding: 15px;
+    font-size: large;
+}
